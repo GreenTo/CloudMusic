@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.the-pig-of-jungle.smart-show:bar-core-2.6.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/bar-core-2.6.2.aar/56bea4179b63992388e2571ed60a390d/jars/classes.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/bar-core-2.6.2.aar/56bea4179b63992388e2571ed60a390d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/com.github.the-pig-of-jungle.smart-show/bar-core/2.6.2/4520d961fbf44d85cdc7b5c99bfd81f54cf6202f/bar-core-2.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

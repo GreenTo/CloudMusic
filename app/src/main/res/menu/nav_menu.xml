@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_night"
+        android:icon="@drawable/item_night"
+        android:title="@string/item_night"/>
+
+    <item
+        android:id="@+id/nav_change"
+        android:icon="@drawable/item_change"
+        android:title="@string/item_change"/>
+
+    <item
+        android:id="@+id/nav_timer"
+        android:icon="@drawable/item_timer"
+        android:title="@string/item_timer"/>
+
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/item_exit"
+        android:title="@string/item_exit"/>
+
+</menu>

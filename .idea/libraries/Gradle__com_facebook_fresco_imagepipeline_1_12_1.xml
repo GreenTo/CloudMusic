@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:imagepipeline-1.12.1">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/imagepipeline-1.12.1.aar/7eaf8febe3732e9517a6e9b7cb5d109d/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/imagepipeline-1.12.1.aar/7eaf8febe3732e9517a6e9b7cb5d109d/jars/classes.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/imagepipeline-1.12.1.aar/7eaf8febe3732e9517a6e9b7cb5d109d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline/1.12.1/cb0118bf9db85bdac830581847e5dcec48150a0e/imagepipeline-1.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

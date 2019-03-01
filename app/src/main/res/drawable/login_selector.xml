@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" >
+
+        <shape>
+
+            <!-- 渐变 -->
+
+            <gradient
+
+                android:startColor="#ff8c00"
+
+                android:endColor="#fc4949"
+
+                android:type="radial"
+
+                android:gradientRadius="200" />
+
+            <!-- 描边 -->
+
+            <!--<stroke-->
+
+                <!--android:width="2dp"-->
+
+                <!--android:color="#dcdcdc"-->
+
+                <!--/>-->
+
+            <!-- 圆角 -->
+
+            <corners
+
+                android:radius="30dp" />
+
+            <padding
+
+                android:left="10dp"
+
+                android:right="10dp"
+
+                />
+
+        </shape>
+
+    </item>
+
+
+
+    <item android:state_focused="true" >
+
+        <shape>
+
+            <gradient
+
+                android:startColor="#ffc2b7"
+
+                android:centerColor="#f97373"
+
+                android:endColor="#fc5335"
+
+                 />
+
+            <!--<stroke-->
+
+                <!--android:width="15dp"-->
+
+                <!--android:color="#dcdcdc" />-->
+
+            <corners
+
+                android:radius="30dp" />
+
+            <padding
+
+                android:left="10dp"
+
+                android:right="10dp"
+
+                />
+
+        </shape>
+
+    </item>
+
+
+
+    <item>
+
+        <shape>
+
+            <gradient
+                android:startColor="#6fd99d"
+                android:centerColor="#63cfc3"
+                android:endColor="#57c5e9"/>
+
+            <!--<stroke-->
+
+                <!--android:width="2dp"-->
+
+                <!--android:color="#dcdcdc" />-->
+
+            <corners
+
+                android:radius="30dp"
+
+                />
+
+            <padding
+
+                android:left="10dp"
+
+                android:right="10dp"
+
+                />
+
+        </shape>
+
+    </item>
+
+</selector>

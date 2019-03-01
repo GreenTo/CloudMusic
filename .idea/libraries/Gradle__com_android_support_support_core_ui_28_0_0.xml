@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui-28.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/98aa67b3efbed8f20e8fbf934510550c/jars/classes.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/98aa67b3efbed8f20e8fbf934510550c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.the-pig-of-jungle.smart-show:dialog-2.6.2">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/dialog-2.6.2.aar/397836bc1f903914502c6239f858a091/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/dialog-2.6.2.aar/397836bc1f903914502c6239f858a091/jars/classes.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/dialog-2.6.2.aar/397836bc1f903914502c6239f858a091/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

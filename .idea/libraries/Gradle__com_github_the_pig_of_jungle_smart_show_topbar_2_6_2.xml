@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.the-pig-of-jungle.smart-show:topbar-2.6.2">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/topbar-2.6.2.aar/f578b99613b6eb72d9603ab5066161bd/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/topbar-2.6.2.aar/f578b99613b6eb72d9603ab5066161bd/res" />
+      <root url="jar://$MAVEN_REPOSITORY$/caches/transforms-1/files-1.1/topbar-2.6.2.aar/f578b99613b6eb72d9603ab5066161bd/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
